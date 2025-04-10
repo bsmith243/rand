@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Extra
 {
-    public class MyClass
+    public class My Class
     {
         public MyClass()
         {
